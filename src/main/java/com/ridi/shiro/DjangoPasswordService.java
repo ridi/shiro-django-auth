@@ -1,4 +1,4 @@
-package com.ridi.data;
+package com.ridi.shiro;
 
 import org.apache.shiro.authc.credential.PasswordService;
 import org.apache.shiro.codec.Base64;
